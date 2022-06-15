@@ -17,5 +17,5 @@
 
 <div>
      <h3>Missão </h3>
-     <p>Ser referência no crescimento de empresas por transformar o ambiente empresarial em um lugar saudável para todos.</p>
+     <p>Ser referência no crescimento de empresas por transformar o ambiente empresarial em um lugar saudável para todos.  </p>
   </div>
