@@ -30,6 +30,9 @@
      <p>Respeito, honestidade e empatia  </p>
   </div>
   
+  <br>
+  <br>
+  
   <div>
  <h2 align="center">ᴛᴇᴄɴᴏʟᴏɢɪᴀs 👨🏻‍💻  </h2>
    <div align="center">
@@ -66,7 +69,10 @@ bem-estar e desenvolve os colaboradores, como também previne problemas a síndr
   <a href="https://github.com/Aline1002" target="_blank"><img src="https://avatars.githubusercontent.com/u/79874630?v=4" height="170" target="_blank"></a>
  <a href="https://github.com/MaxHenriique" target="_blank"><img src="https://avatars.githubusercontent.com/u/101279529?v=4" height="170"></a>
  <a href="https://github.com/annavoigg" target="_blank"><img src="https://avatars.githubusercontent.com/u/101263529?v=4" height="170" target="_blank"></a>
- <a href="https://github.com/Arthcode08" target="_blank"><img src="https://avatars.githubusercontent.com/u/101263714?v=4" height="170" target="_blank"></a>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/MecStitch">Eudes Benevides</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Aline1002">Aline Gallo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/MaxHenriique">Max Henrique</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/annavoigg">Giovanna Gomes</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/MecStitch">Eudes Benevides</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Aline1002">Aline Gallo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/MaxHenriique">Max Henrique</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/annavoigg">Giovanna Gomes</a>
+  
+ <div align="center">
+   <h2>Contatos</h2>
+  </div>
