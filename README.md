@@ -30,45 +30,42 @@
      <p>Respeito, honestidade e empatia  </p>
   </div>
   
-  ##
-  
   <div>
  <h2 align="center">ᴛᴇᴄɴᴏʟᴏɢɪᴀs 👨🏻‍💻  </h2>
- <div align="center">
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   </span>
-  
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-   </span>
-   
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-   </span>
-  
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-   </span>
-   
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-   </span>
-   
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-   </span>
-  
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-   </span>
-  
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-   </span>
-    
- </div>
-</div>
+   <div align="center">
+ <img align="center" alt="Illustrator" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+ <img align="center" alt="Illustrator" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
+ <img align="center" alt="Símbolo Figma" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />    
+ <img align="center" alt="Símbolo HTML" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Símbolo CSS" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Símbolo JavaScript" height="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="MySql" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  </div>
   
   ##
+  <br>
   
+  <div>
+       <h2 align="height">Sobre nós🦜 </h2>
+    <img align="right" src="https://raw.githubusercontent.com/MecStitch/MecStitch/main/girl%20with%20coffee%20(1).png" height="300px">
+ </div>
+    <div>
+  <p>Nosso projeto começou a partir do entendimento de que para uma empresa funcionar bem os funcionários também precisam estar bem. Portanto desenvolvemos um site onde as empresas podem contratar serviços e pacotes que colocam seus funcionários em contato com terapeutas para consultas e atividades, essa ação não só melhora o 
+bem-estar e desenvolve os colaboradores, como também previne problemas a síndrome de Burnout. Dessa forma geramos um ambiente saudável, respeitoso, produtivo e motivador!</p> </div>
+  
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+  ##
+  
+  <div align="center">
+   <a href="https://github.com/MecStitch" target="_blank"><img src="https://avatars.githubusercontent.com/u/101286899?v=4" height="170" target="_blank"></a>&nbsp;&nbsp;
+  <a href="https://github.com/Aline1002" target="_blank"><img src="https://avatars.githubusercontent.com/u/79874630?v=4" height="170" target="_blank"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/MaxHenriique" target="_blank"><img src="https://avatars.githubusercontent.com/u/101279529?v=4" height="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/annavoigg" target="_blank"><img src="https://avatars.githubusercontent.com/u/101263529?v=4" height="170" target="_blank"></a>
+
+
+<a href="https://github.com/MecStitch">Eudes Benevides</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Aline1002">Aline Gallo</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/MaxHenriique">Max Henrique</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/MecStitch">Giovanna Gomes</a>
