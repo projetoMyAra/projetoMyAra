@@ -82,6 +82,6 @@ bem-estar e desenvolve os colaboradores, como também previne problemas a síndr
   <div align="center">
   <h2>Contatos</h2>
   <a href="https://www.instagram.com/projetomyara" target="_blank"><img src="https://raw.githubusercontent.com/MecStitch/MecStitch/main/instagram_icon_logo.png" height="50">
-    <a href="mailto:projeto.myara@gmail.com" alt="Gmail"><img src="https://raw.githubusercontent.com/MecStitch/MecStitch/main/Gmail-Logo.png" height="45">
-    </div>
+    <a href="mailto:projeto.myara@gmail.com" alt="Gmail"><img src="https://raw.githubusercontent.com/projetoMyAra/IMGS/main/Gmail-Logo.png?token=GHSAT0AAAAAABVP5EXZAMGMVJQQ6AATUBBYYVKYHJQ" height="45">
+    </div> 
 
