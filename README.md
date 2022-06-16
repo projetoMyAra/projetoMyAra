@@ -50,7 +50,7 @@
   
   <div>
        <h2 align="height">Sobre nós🦜 </h2>
-    <img align="right" src="https://raw.githubusercontent.com/projetoMyAra/projetoMyAra/main/girl%20with%20coffee%20(1).png" height="280px"> 
+    <img align="right" src="https://raw.githubusercontent.com/projetoMyAra/projetoMyAra/main/girl%20with%20coffee%20(1).png" height="250px"> 
  </div>
     <div>
   <p>Nosso projeto começou a partir do entendimento de que para uma empresa funcionar bem os funcionários também precisam estar bem. Portanto desenvolvemos um site onde as empresas podem contratar serviços e pacotes que colocam seus funcionários em contato com terapeutas para consultas e atividades, essa ação não só melhora o 
