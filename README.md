@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/projetoMyAra">
-    <img src="https://raw.githubusercontent.com/MecStitch/MecStitch/main/Group%20307.png" alt="Logo MyAra" width="300">
+    <img src="https://raw.githubusercontent.com/MecStitch/MecStitch/main/Group%20307.png" alt="Logo MyAra" width="300"> 
   </a>
   
   <br>
