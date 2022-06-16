@@ -31,8 +31,7 @@
   </div>
   
   <br>
-  <br>
-  
+ 
   <div>
  <h2 align="center">ᴛᴇᴄɴᴏʟᴏɢɪᴀs 👨🏻‍💻  </h2>
    <div align="center">
