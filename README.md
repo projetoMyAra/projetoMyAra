@@ -73,6 +73,14 @@ bem-estar e desenvolve os colaboradores, como também previne problemas a síndr
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/MecStitch">Eudes Benevides</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Aline1002">Aline Gallo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/MaxHenriique">Max Henrique</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/annavoigg">Giovanna Gomes</a>
   
- <div align="center">
-   <h2>Contatos</h2>
-  </div>
+  ##
+  
+  <br>
+  <br>
+  
+  <div align="center">
+  <h2>Contatos</h2>
+  <a href="https://www.instagram.com/projetomyara/" target="_blank"><img src="https://raw.githubusercontent.com/MecStitch/MecStitch/main/instagram_icon_logo.png" height="60">
+    <a href="mailto:projeto.myara@gmail.com" alt="Gmail"><img src="https://raw.githubusercontent.com/MecStitch/MecStitch/main/Gmail-Logo.png" height="55">
+    </div>
+
