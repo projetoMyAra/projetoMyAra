@@ -48,7 +48,6 @@
   ##
   <br>
   
-  <div>
        <h2 align="height">Sobre nós🦜 </h2>
     <img align="right" src="https://raw.githubusercontent.com/projetoMyAra/projetoMyAra/main/girl%20with%20coffee%20(1).png" height="300px"> 
      <br>
