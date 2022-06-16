@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/projetoMyAra">
-    <img src="https://raw.githubusercontent.com/projetoMyAra/IMGS/main/Group%20307.png?token=GHSAT0AAAAAABVP5EXZATH2KZSF3NPUWS3UYVKYP4Q" alt="Logo MyAra" width="300"> 
+    <img src="https://raw.githubusercontent.com/projetoMyAra/IMGS/main/Group%20307.png?token=GHSAT0AAAAAABVP5EXYVCQKNUOXR3JHEJECYVKYW3A" alt="Logo MyAra" width="300"> 
   </a>
   
   <br>
