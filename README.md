@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/projetoMyAra">
-    <img src="Post-insta.gif" alt="Logo MyAra" width="400"> 
+    <img src="Post-instag.gif" alt="Logo MyAra" width="400"> 
   </a>
   
   <br>
