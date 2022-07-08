@@ -109,6 +109,6 @@ Veja seu [GitHub]() e [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-de-az
   <div align="center">
   <h2>Contatos</h2>
 <a href="https://www.linkedin.com/in/rojeto-myara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:projeto.myara@gmail.com" alt="Gmail"><img src="https://raw.githubusercontent.com/projetoMyAra/projetoMyAra/main/Gmail-Logo.png" height="45">
-    </div> 
+<a href="https://www.instagram.com/projetomyara/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:projeto.myara@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
