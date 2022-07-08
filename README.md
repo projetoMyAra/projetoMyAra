@@ -39,42 +39,70 @@ bem-estar e desenvolve os colaboradores, como também previne problemas a síndr
  
  <h2 align="center">Tecnologias Utilizadas 👨🏻‍💻</h2>
    <div align="center">
- <img align="center" alt="Símbolo Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
- <img align="center" alt="Símbolo HTML" height="3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Símbolo CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Símbolo JavaScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Símbolo Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
- <img align="center" alt="Símbolo Spring" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
- <img align="center" alt="Símbolo MySQL" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
-   </div>
- 
-  <h2 align="center">Tecnologias Utilizadas 👨🏻‍💻</h2>
-   <div align="center">
  <img align="center" alt="Símbolo Figma" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
  <img align="center" alt="Símbolo HTML" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Símbolo CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Símbolo JavaScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Símbolo Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  <img align="center" alt="Símbolo Spring" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
- <img align="center" alt="Símbolo MySQL" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
+ <img align="center" alt="Símbolo Thymeleaf" height="50" src="Group 340.png">
+ <img align="center" alt="Símbolo Hibernate" height="50" src="Group 356.png">
+ <img align="center" alt="Símbolo Maven" height="25" src="Group 355.png">
+ <img align="center" alt="Símbolo MySQL" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+ <img align="center" alt="Símbolo Photoshop" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+ <img align="center" alt="Símbolo Illustrator" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">  
+ <img align="center" alt="Símbolo After Effects" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+ <img align="center" alt="Símbolo Trello" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
    </div>
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- <img align="center" alt="Illustrator" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
- <img align="center" alt="Illustrator" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">   
- <img align="center" alt="MySql" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  </div>
-  
   ##
   
+   <h2 align="center">Nosso Time</h2>
+   
+<img align="left" src="Avata_-_Gii.png" width="100"><br><br>
+
+Giovanna Gomes - Front End 👨🏻‍💻
+<br>
+Veja seu [GitHub](https://github.com/annavoigg) e [LinkedIn](https://www.linkedin.com/in/giovanna-gomes-cortez-790197229/)
+
+<img align="right" src="Avata_-_Eudes.png" width="100"><br><br>
+
+<p align="right">Eudes Benevides - Front End 👨🏻‍💻
+<br>
+Veja seu <a href="https://github.com/MecStitch">GitHub</a> e <a href="https://www.linkedin.com/in/eudes-benevides/">LinkedIn</a></P>
+
+<img align="left" src="Avata_-_Max.png" width="100"><br><br>
+
+Max Henrique - Front End 👨🏻‍💻
+<br>
+Veja seu [GitHub](https://github.com/MaxHenriique) e [LinkedIn](https://www.linkedin.com/in/max-henrique-fontes/)
+
+<img align="right" src="Avata_-_Aline.png" width="100"><br><br>
+
+<p align="right">Aline Gallo - Banco de Dados 👨🏻‍💻
+<br>
+Veja seu <a href="https://github.com/Aline1002">GitHub</a> e <a href="https://www.linkedin.com/in/alinegallo/">LinkedIn</a></P>
+
+<img align="left" src="Avata_-_Arthur.png" width="100"><br><br>
+
+Arthur Ferrari - Back End 👨🏻‍💻
+<br>
+Veja seu [GitHub](https://github.com/Arthcode08) e [LinkedIn](https://www.linkedin.com/in/arthur-ferrari/)
+
+<img align="right" src="Avata_-_Leo.png" width="100"><br><br>
+
+<p align="right">Leonardo Henrique - Processo Criativo 👨🏻‍💻
+<br>
+Veja seu <a href="https://github.com/LeoLimao">GitHub</a> e <a href="https://www.linkedin.com/in/leolima00/">LinkedIn</a></P>
+
+<img align="left" src="Avata_-_Vini.png" width="100"><br><br>
+
+Vinícius De Azevedo - Processo Criativo 👨🏻‍💻
+<br>
+Veja seu [GitHub]() e [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-de-azevedo-76787b197/)
+
+
+
 
   
   ##
