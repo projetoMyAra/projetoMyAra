@@ -89,17 +89,7 @@ Arthur Ferrari - Back End 👨🏻‍💻
 <br>
 Veja seu [GitHub](https://github.com/Arthcode08) e [LinkedIn](https://www.linkedin.com/in/arthur-ferrari/)
 
-<img align="right" src="Avata_-_Leo.png" width="100"><br><br>
 
-<p align="right">Leonardo Henrique - Processo Criativo 👨🏻‍💻
-<br>
-Veja seu <a href="https://github.com/LeoLimao">GitHub</a> e <a href="https://www.linkedin.com/in/leolima00/">LinkedIn</a></P>
-
-<img align="left" src="Avata_-_Vini.png" width="100"><br><br>
-
-Vinícius De Azevedo - Processo Criativo 👨🏻‍💻
-<br>
-Veja seu [GitHub]() e [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-de-azevedo-76787b197/)
 
   ##
   
